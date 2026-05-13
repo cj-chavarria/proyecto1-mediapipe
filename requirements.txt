@@ -1,0 +1,5 @@
+attrs==25.4.0
+keyboard==0.13.5
+mediapipe==0.10.32
+opencv-python==4.13.0.92
+pywebview==6.2.1
